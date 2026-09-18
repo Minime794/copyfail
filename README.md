@@ -1,5 +1,5 @@
 # Copy Fail (CVE-2026-31431) – Exploit Usage Guide
-# https://github.com/painoob/Copy-Fail-Exploit-CVE-2026-31431/blob/main/README.md
+# Original Readme taken from @painoob
 # All Kernel versions since 2017 / 2016 are vulnerable ! Kernel 7 is fully immune, others (between 5-7 may still be vulnerable) 
 ## ⚠️ Disclaimer
 This content is for educational and authorized security testing purposes only. Do **NOT** run this on systems without explicit permission.
